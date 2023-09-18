@@ -1,5 +1,5 @@
 # Churn-Rate-Prediction
-In this project, i want to predict the Churn rate in the Telco sector.
+The aim of this project is to predict the Churn rate in the Telco sector.
 
 The Churn rate, when applied to a customer base, refers to the proportion of contractual customers or subscribers who leave a supplier during a given time period. It is a possible indicator of customer dissatisfaction, cheaper and/or better offers from the competition, more successful sales and/or marketing by the competition, or reasons having to do with the customer life cycle.
 
